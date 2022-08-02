@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeiLzy&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dai-oh&show_icons=true&theme=gruvbox)
 
 
  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
